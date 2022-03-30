@@ -13,7 +13,7 @@
   <img align="center" alt="TF-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="TF-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TF-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <! –<img align="center" alt="TF-Node" height="50" width="60" src="https://image.flaticon.com/icons/png/512/919/919825.png"> ->
+   <! <img align="center" alt="TF-Node" height="50" width="60" src="https://image.flaticon.com/icons/png/512/919/919825.png"> ->
   <img align="center" alt="TF-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="TF-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="TF-Github" height="50" width="50" src="https://image.flaticon.com/icons/png/128/270/270798.png">
