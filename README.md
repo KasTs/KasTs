@@ -2,7 +2,6 @@
 <p>My name is Thiago Fagundes.</p>
 
 - :computer: | <strong>I'm  Software Engineer </strong>
-- 🌱 I’m currently learning hard Ruby and python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thiago-fagundes/)
 
 ### <p align="left"><strong> Skills Technologies:</strong><p> 
