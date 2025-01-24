@@ -1,7 +1,7 @@
  ### Hi there 👋
 <p>My name is Thiago Fagundes.</p>
 
-- :computer: | <strong>I'm  Software Engineer </strong>
+- :computer: | <strong>I'm  data scientist </strong>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thiago-fagundes/)
 
 ### <p align="left"><strong> Skills Technologies:</strong><p> 
